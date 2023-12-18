@@ -73,7 +73,7 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 | Lamda Kernel                |[ICML2023](PDF/ICML_TowardsaPersistenceDiagramthatisRobusttoNoiseandVariedDensities.pdf)   | [code](https://github.com/IsolationKernel/Lambda-kernel.git)               |
 | psKC                        | [TKDE2023](PDF/TKDE_Point-Set_Kernel_Clustering.pdf)                                                     | [code](https://github.com/IsolationKernel/psKC.git)                        |
 
-|IDKC                         |[IS2023](PDF/IS2023.pdf)              |                                                                   |
+|IDKC                         |[IS2023](PDF/IS2023.pdf)                                                                                  |  [code]        |
 
 | Graph Anomaly Detection     | [SIAM2023](PDF/SIAM2023_SubgraphCentralization_ANecessaryStepforGraphAnomalyDetection.pdf)               | [code](https://github.com/IsolationKernel/GraphAnomalyDetection.git)       |
 | IDK                         | [KDD2020](PDF/KDD2020.pdf) | [code](https://github.com/IsolationKernel/IDK.git)                         |
