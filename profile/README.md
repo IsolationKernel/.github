@@ -68,3 +68,21 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+|                             | Paper                                                                                                    | Codes                                                                      |
+|-----------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Lamda Kernel                |[ICML2023](PDF/ICML_Towards%20a%20Persistence20%Diagram20%that20%is20%Robust20%to20%Noise20%and20%Varied20%Densities.pdf)   | [code](https://github.com/IsolationKernel/Lambda-kernel.git)               |
+| psKC                        | [TKDE2023](PDF/TKDE_Point-Set_Kernel_Clustering.pdf)                                                     | [code](https://github.com/IsolationKernel/psKC.git)                        |
+| Graph Anomaly Detection     | [SIAM2023](PDF/SIAM2023_SubgraphCentralization_ANecessaryStepforGraphAnomalyDetection.pdf)               | [code](https://github.com/IsolationKernel/GraphAnomalyDetection.git)       |
+| IDK                         | [KDD2020](PDF/KDD2020_Isolation20%Distributional20%Kernel_A20%New20%Tool20%for20%Kernel20%based20%Anomaly20%Detection.pdf) | [code](https://github.com/IsolationKernel/IDK.git)                         |
+| IGK                         | [AAAI2021](PDF/AAAI2021_Isolation20%Graph20%Kernel.pdf)                                                      | [code](https://github.com/IsolationKernel/IGK.git)                         |
+| IKDE                        | [ICDM2021](PDF/ICDM2021_Isolation_Kernel_Density_Estimation.pdf)                                         | [code](https://github.com/IsolationKernel/IKDE.git)                        |
+| Time Series                 | [VLDB2021](PDF/VLDB2021_TS)                                                                              | [code](https://github.com/IsolationKernel/TS.git)                          |
+| Trajectory Data Mining      |                                                                                                          | [code](https://github.com/IsolationKernel/TrajectoryDataMining.git)        |
+| High-dimensional Evaluation |                                                                                                          | [code](https://github.com/IsolationKernel/High-dimensional_Evaluation.git) |
+| IK-AHC                      | [PR2023](PDF/PR2023_AHC.pdf)                                                                             | [code](https://github.com/IsolationKernel/IK_AHC.git)                      |
+| TIDKC                       |                                                                                                          | [code](https://github.com/IsolationKernel/TIDKC.git)                       |
+| IK_Implementations          | [AAAI2019](PDF/AAAI2019_Nearest-Neighbour-Induced20%Isolation.pdf)[SIGKDD2018](PDF/SIGKDD2018_SVM.pdf)     | [code](https://github.com/IsolationKernel/IK_Implementations.git)          |
+| IK-OGD                      | [DMKD2021](PDF/DMKD2021_20%Isolation20%kernel20%the20%X20%factor.pdf)                                              | [code](https://github.com/IsolationKernel/IK_OGD.git)                      |
+| IK-TSNE                     | [JAIR2021](PDF/JAIR2021_Improving20%the20%effectiveness20%and20%efficiency.pdf)                                  | [code](https://github.com/IsolationKernel/IK_TSNE.git)                     |
+| StreakHC                    | [SIGKDD2022](PDF/SIGKDD2022_SHC.pdf)                                                                     | [code](https://github.com/IsolationKernel/StreaKHC.git)                    |
+| iCID                        |                                                                                                          | [code](https://github.com/IsolationKernel/iCID.git)                        |
