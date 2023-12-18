@@ -82,7 +82,7 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 | IK-AHC                      | [PR2023](PDF/PR2023_AHC.pdf)                                                                             | [code](https://github.com/IsolationKernel/IK_AHC.git)                      |
 | TIDKC                       |                                                                                                          | [code](https://github.com/IsolationKernel/TIDKC.git)                       |
 | IK_Implementations          | [AAAI2019](PDF/AAAI2019.pdf),[SIGKDD2018](PDF/SIGKDD2018_SVM.pdf)     | [code](https://github.com/IsolationKernel/IK_Implementations.git)          |
-| IK-OGD                      | [DMKD2021](PDF/DMKD2021_20%Isolation20%kernel20%the20%X20%factor.pdf)                                              | [code](https://github.com/IsolationKernel/IK_OGD.git)                      |
-| IK-TSNE                     | [JAIR2021](PDF/JAIR2021_Improving20%the20%effectiveness20%and20%efficiency.pdf)                                  | [code](https://github.com/IsolationKernel/IK_TSNE.git)                     |
+| IK-OGD                      | [DMKD2021](PDF/DMKD2021.pdf)                                              | [code](https://github.com/IsolationKernel/IK_OGD.git)                      |
+| IK-TSNE                     | [JAIR2021](PDF/JAIR2021.pdf)                                  | [code](https://github.com/IsolationKernel/IK_TSNE.git)                     |
 | StreakHC                    | [SIGKDD2022](PDF/SIGKDD2022_SHC.pdf)                                                                     | [code](https://github.com/IsolationKernel/StreaKHC.git)                    |
 | iCID                        |                                                                                                          | [code](https://github.com/IsolationKernel/iCID.git)                        |
