@@ -74,7 +74,7 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 | psKC                        | [TKDE2023](PDF/TKDE_Point-Set_Kernel_Clustering.pdf)                                                     | [code](https://github.com/IsolationKernel/psKC.git)                        |
 | Graph Anomaly Detection     | [SIAM2023](PDF/SIAM2023_SubgraphCentralization_ANecessaryStepforGraphAnomalyDetection.pdf)               | [code](https://github.com/IsolationKernel/GraphAnomalyDetection.git)       |
 | IDK                         | [KDD2020](PDF/KDD2020.pdf) | [code](https://github.com/IsolationKernel/IDK.git)                         |
-| IGK                         | [AAAI2021](PDF/AAAI2021_Isolation20%Graph20%Kernel.pdf)                                                      | [code](https://github.com/IsolationKernel/IGK.git)                         |
+| IGK                         | [AAAI2021](PDF/AAAI2021.pdf)                                                      | [code](https://github.com/IsolationKernel/IGK.git)                         |
 | IKDE                        | [ICDM2021](PDF/ICDM2021_Isolation_Kernel_Density_Estimation.pdf)                                         | [code](https://github.com/IsolationKernel/IKDE.git)                        |
 | Time Series                 | [VLDB2021](PDF/VLDB2021_TS)                                                                              | [code](https://github.com/IsolationKernel/TS.git)                          |
 | Trajectory Data Mining      |                                                                                                          | [code](https://github.com/IsolationKernel/TrajectoryDataMining.git)        |
