@@ -68,22 +68,21 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-|                             | Paper                                                                                                    | Codes                                                                      |
-|-----------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| Lamda Kernel                |[ICML2023](PDF/ICML_TowardsaPersistenceDiagramthatisRobusttoNoiseandVariedDensities.pdf)   | [code](https://github.com/IsolationKernel/Lambda-kernel.git)               |
-| psKC                        | [TKDE2023](PDF/TKDE_Point-Set_Kernel_Clustering.pdf)                                                     | [code](https://github.com/IsolationKernel/psKC.git)                        |
-|IDKC                         |[IS2023](PDF/IS2023.pdf)                                                                                  |  [code] |
-| Graph Anomaly Detection     | [SIAM2023](PDF/SIAM2023_SubgraphCentralization_ANecessaryStepforGraphAnomalyDetection.pdf)               | [code](https://github.com/IsolationKernel/GraphAnomalyDetection.git)       |
-| IDK                         | [KDD2020](PDF/KDD2020.pdf) | [code](https://github.com/IsolationKernel/IDK.git)                         |
-| IGK                         | [AAAI2021](PDF/AAAI2021.pdf)                                                      | [code](https://github.com/IsolationKernel/IGK.git)                         |
-| IKDE                        | [ICDM2021](PDF/ICDM2021_IsolationKernelDensityEstimation.pdf)                                         | [code](https://github.com/IsolationKernel/IKDE.git)                        |
-| Time Series                 | [VLDB2021](PDF/VLDB2021.pdf)                                                                              | [code](https://github.com/IsolationKernel/TS.git)                          |
-| Trajectory Data Mining      |                                                                                                          | [code](https://github.com/IsolationKernel/TrajectoryDataMining.git)        |
-| High-dimensional Evaluation |                                                                                                          | [code](https://github.com/IsolationKernel/High-dimensional_Evaluation.git) |
-| IK-AHC                      | [PR2023](PDF/PR2023_AHC.pdf)                                                                             | [code](https://github.com/IsolationKernel/IK_AHC.git)                      |
-| TIDKC                       |                                                                                                          | [code](https://github.com/IsolationKernel/TIDKC.git)                       |
-| IK_Implementations          | [AAAI2019](PDF/AAAI2019.pdf),[SIGKDD2018](PDF/SIGKDD2018_SVM.pdf)     | [code](https://github.com/IsolationKernel/IK_Implementations.git)          |
-| IK-OGD                      | [DMKD2021](PDF/DMKD2021.pdf)                                              | [code](https://github.com/IsolationKernel/IK_OGD.git)                      |
-| IK-TSNE                     | [JAIR2021](PDF/JAIR2021.pdf)                                  | [code](https://github.com/IsolationKernel/IK_TSNE.git)                     |
-| StreakHC                    | [SIGKDD2022](PDF/SIGKDD2022_SHC.pdf)                                                                     | [code](https://github.com/IsolationKernel/StreaKHC.git)                    |
-| iCID                        |                                                                                                          | [code](https://github.com/IsolationKernel/iCID.git)                        |
+| | | | |
+|-|-|-|-|
+|Topological Data Analysis|Lamda Kernel|[ICML2023](PDF/ICML_TowardsaPersistenceDiagramthatisRobusttoNoiseandVariedDensities.pdf) |[code](https://github.com/IsolationKernel/Lambda-kernel.git)|
+|IK-based methods|IK-OGD|[DMKD2021](PDF/DMKD2021.pdf)|[code](https://github.com/IsolationKernel/IK_OGD.git)|
+| |IK-TSNE|[JAIR2021](PDF/JAIR2021.pdf)                           |[code](https://github.com/IsolationKernel/IK_TSNE.git)|
+| |IKDE|[ICDM2021](PDF/ICDM2021_IsolationKernelDensityEstimation.pdf)                                                              |[code](https://github.com/IsolationKernel/IKDE.git)|
+| |IK_Implementations |[AAAI2019](PDF/AAAI2019.pdf),[SIGKDD2018](PDF/SIGKDD2018_SVM.pdf)  |[code](https://github.com/IsolationKernel/IK_Implementations.git)|
+| |High-dimensional Evaluation| |[code](https://github.com/IsolationKernel/High-dimensional_Evaluation.git)|
+|Clustering Methods|psKC|[TKDE2023](PDF/TKDE_Point-Set_Kernel_Clustering.pdf)                                                                         |[code](https://github.com/IsolationKernel/psKC.git) |
+| |IK-AHC|[PR2023](PDF/PR2023_AHC.pdf)                                                                                                                                       |[code](https://github.com/IsolationKernel/IK_AHC.git)|
+| |IDKC|[IS2023](PDF/IS2023.pdf)                                                                                  | |
+| |StreakHC|[SIGKDD2022](PDF/SIGKDD2022_SHC.pdf)   |[code](https://github.com/IsolationKernel/StreaKHC.git)|
+| |TIDKC | |[code](https://github.com/IsolationKernel/TIDKC.git)|
+| Group|Graph Anomaly Detection|[SIAM2023](PDF/SIAM2023_SubgraphCentralization_ANecessaryStepforGraphAnomalyDetection.pdf)               |[code](https://github.com/IsolationKernel/GraphAnomalyDetection.git)|
+| |iCID| |[code](https://github.com/IsolationKernel/iCID.git)|
+|Graph|IGK|[AAAI2021](PDF/AAAI2021.pdf)                                                              |[code](https://github.com/IsolationKernel/IGK.git)|
+|Trajectory|Trajectory Data Mining| |[code](https://github.com/IsolationKernel/TrajectoryDataMining.git)|
+|Time Series|Time Series|[VLDB2021](PDF/VLDB2021.pdf)                                                                              |[code](https://github.com/IsolationKernel/TS.git)|
