@@ -78,7 +78,7 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 | |High-dimensional Evaluation| |[code](https://github.com/IsolationKernel/High-dimensional_Evaluation.git)|
 |Clustering Methods|psKC|[TKDE2023](PDF/TKDE_Point-Set_Kernel_Clustering.pdf)                                                                         |[code](https://github.com/IsolationKernel/psKC.git) |
 | |IK-AHC|[PR2023](PDF/PR2023_AHC.pdf)                                                                                                                                       |[code](https://github.com/IsolationKernel/IK_AHC.git)|
-| |IDKC|[IS2023](PDF/IS2023.pdf)                                                                                  | |
+| |IDKC|[IS2023](PDF/IS2023.pdf)                                                                                  | [code](https://github.com/zhuye88/IDKC.git)|
 | |StreakHC|[SIGKDD2022](PDF/SIGKDD2022_SHC.pdf)   |[code](https://github.com/IsolationKernel/StreaKHC.git)|
 | |TIDKC | |[code](https://github.com/IsolationKernel/TIDKC.git)|
 | Group|Graph Anomaly Detection|[SIAM2023](PDF/SIAM2023_SubgraphCentralization_ANecessaryStepforGraphAnomalyDetection.pdf)               |[code](https://github.com/IsolationKernel/GraphAnomalyDetection.git)|
