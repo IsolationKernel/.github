@@ -85,4 +85,4 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 | |iCID| |[code](https://github.com/IsolationKernel/iCID.git)|
 |Graph|IGK|[AAAI2021](PDF/AAAI2021.pdf)                                                              |[code](https://github.com/IsolationKernel/IGK.git)|
 |Trajectory|Trajectory Data Mining| |[code](https://github.com/IsolationKernel/TrajectoryDataMining.git)|
-|Time Series|Time Series|[VLDB2021](PDF/VLDB2021.pdf)                                                                              |[code](https://github.com/IsolationKernel/TS.git)|
+|Time Series|Time Series|[VLDB2022](PDF/VLDB2021.pdf)                                                                              |[code](https://github.com/IsolationKernel/TS.git)|
