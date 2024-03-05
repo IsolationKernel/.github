@@ -57,16 +57,16 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 
 [17] Kai Ming Ting, Zongyou Liu, Hang Zhang, Ye Zhu (2022) A New Distributional Treatment for Time Series and An Anomaly Detection Investigation. Proceedings of The Very Large Data Bases (VLDB) Conference. [[pdf]](https://www.vldb.org/pvldb/vol15/p2321-liu.pdf)
 
-[18] Zhong Zhuang, Kai Ming Ting, Guansong Pang, Shuaibin Song (2023). Subgraph Centralization: A Necessary Step for Graph Anomaly Detection. SIAM Conference on Data Mining. 
+[18] Zhong Zhuang, Kai Ming Ting, Guansong Pang, Shuaibin Song (2023). Subgraph Centralization: A Necessary Step for Graph Anomaly Detection. Proceedings of The SIAM Conference on Data Mining. 
 
 [19] Ye Zhu, Kai Ming Ting (2023).  Kernel-based Clustering via Isolation Distributional Kernel. Information Systems.
 
 [20] Hang Zhang, Kaifeng Zhang, Kai Ming Ting,  Ye Zhu (2023). Towards a persistence diagram
-that is robust to noise and varied densities. In Proceedings of the 40th
+that is robust to noise and varied densities. Proceedings of the 40th
 International Conference on Machine Learning, pages 41952–41972.
 
 [21] Zijing Wang, Ye Zhu, Kai Ming Ting (2023). Distribution-based trajectory clustering.
-In Proceedings of the International Conference on Data Mining.
+Proceedings of the International Conference on Data Mining.
 
 [22] Kai Ming Ting, Zongyou Liu, Lei Gong, Hand Zhang, Ye Zhu (2024). A new distributional
 treatment for time series anomaly detection. The VLDB Journal.
