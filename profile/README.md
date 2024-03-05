@@ -9,7 +9,7 @@ Isolation Forest is one of the most effective and efficient anomaly detectors cr
 The development of isolation-based methods has grown outside the confines of anomaly detection since. In 2010, Isolation Forest is shown to be a special case of mass estimation [3] (i.e., an alternative to density estimation.)  
 
 
-In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first introduced as an alternative to data independent kernels such as Gaussian and Laplacian kernels. It has a unique characteristic:  two points, as measured by Isolation Kernel derived with a dataset in a sparse region, are more similar than the same two points, as measured by Isolation Kernel derived with a dataset in a dense region. This characteristic is derived from data directly; and IK has no closed form expression and does not require learning. Isolation Kernel has three implementations using different isolation mechanisms up to 2021 [4,5,6]. IK has been shown to be the key in achieving large scale online kernel learning [7], improving the efficacy & efficiency of t-SNE [15].
+In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first introduced as an alternative to data independent kernels such as Gaussian and Laplacian kernels. It has a unique characteristic:  two points, as measured by Isolation Kernel derived with a dataset in a sparse region, are more similar than the same two points, as measured by Isolation Kernel derived with a dataset in a dense region. This characteristic is derived from data directly; and IK has no closed form expression and does not require learning. Isolation Kernel has three implementations using different isolation mechanisms up to 2021 [4,5,6]. IK has been shown to be the key in achieving large scale online kernel learning [7], improving the efficacy & efficiency of t-SNE [15] and inspiring a new data dependent kernel as the key in building a perisitence diagram which is robust to noise and caried densities [20].
 
 
 In 2020, Isolation Distributional Kernel or IDK is introduced to measure the similarity of two distributions [6], based on the framework of kernel mean embedding [8]. The first application of IDK is a kernel-based point anomaly detector that needs no learning, unlike OCSVM [9]. Through IDK point anomaly detector, Isolation Forest is linked to a kernel-based method for the very first time. IDK has since been applied to 
@@ -17,7 +17,9 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 * IDK can be interpreted as a kernel density estimator called Isolation Kernel Density Estimator [13]. 
 * A new class of clustering algorithms which employs IDK to grow a cluster by treating each cluster as a distribution. Two such methods are psKC (or point-set Kernel Clustering) [14], and IDKC (Isolation Distributional Kernel Clustering) [19]. They are the only clustering algorithms which are both effective and efficient---a quality which is all but nonexistent in current clustering algorithms. They are also the only kernel-based clustering algorithms which have linear time complexity.
 * A new class of online Agglomerative Hierarchical Clustering [16] that makes use of the idea of point-set kernel.
-* A new treatment for timeseries [17]. This is a paradigm shift from the time domain and frequency domain approaches that have been around for more than 100 years.
+* Change interval detection in data streams [23].
+* Trajecotry retrieval, anomaly detection and clustering [21].
+* A new treatment for timeseries [17,22]. This is a paradigm shift from the time domain and frequency domain approaches that have been around for more than 100 years.
 
 
 ## References
@@ -59,9 +61,19 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 
 [19] Ye Zhu, Kai Ming Ting (2023).  Kernel-based Clustering via Isolation Distributional Kernel. Information Systems.
 
-[20] Hang Zhang, Kaifeng Zhang, Kai Ming Ting,  Ye Zhu. Towards a persistence diagram
+[20] Hang Zhang, Kaifeng Zhang, Kai Ming Ting,  Ye Zhu (2023). Towards a persistence diagram
 that is robust to noise and varied densities. In Proceedings of the 40th
-International Conference on Machine Learning, pages 41952–41972, 2023.
+International Conference on Machine Learning, pages 41952–41972.
+
+[21] Zijing Wang, Ye Zhu, Kai Ming Ting (2023). Distribution-based trajectory clustering.
+In Proceedings of the International Conference on Data Mining.
+
+[22] Kai Ming Ting, Zongyou Liu, Lei Gong, Hand Zhang, Ye Zhu (2024). A new distributional
+treatment for time series anomaly detection. The VLDB Journal.
+
+[23] Y. Cao, Y. Zhu, K. M. Ting, F. D. Salim, H. X. Li, L. Yang, G. Li (2024). Detecting
+change intervals with isolation distributional kernel. Journal of Artificial
+Intelligence Research, 79:273–306.
 <!--
 
 **Here are some ideas to get you started:**
