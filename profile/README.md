@@ -75,8 +75,7 @@ treatment for time series anomaly detection. The VLDB Journal.
 change intervals with isolation distributional kernel. Journal of Artificial
 Intelligence Research, 79:273–306.
 
-[24] Xin Mu, Kai Ming Ting, and Zhi-Hua Zhou. 2017. Classification under stream-
-ing emerging new classes: A solution using completely-random trees. IEEE
+[24] Xin Mu, Kai Ming Ting, and Zhi-Hua Zhou. 2017. Classification under streaming emerging new classes: A solution using completely-random trees. IEEE
 Transactions on Knowledge and Data Engineering 29, 8 (2017), 1605–1618.
 
 [25] Xin-Qiang Cai, Peng Zhao, Kai-Ming Ting, Xin Mu, and Yuan Jiang. 2019. Nearest
