@@ -3,13 +3,13 @@
 Isolation-based methods refer to methods that employ an isolation mechanism to construct isolating partitions in the input space. The first method is called Isolation Forest or iForest [1], a point anomaly detector, reported in IEEE ICDM 2008. The intuition is that anomalies are rare and different from normal points; thus each anomaly is more amenable to isolation than normal points. A point is said to be isolated if it is contained within an isolating partition that isolates it from the rest of the points in a sample. 
 
 
-Isolation Forest is one of the most effective and efficient anomaly detectors created thus far. Since its introduction, it has been used widely in academia and industries. Its limitations, due to the use of tree structures, have been studied by different researchers. One improvement beyond tree structures is iNNE [2] which employs hyperspheres as the isolation mechanism.
+Isolation Forest is one of the most effective and efficient anomaly detectors created thus far. Since its introduction, it has been used widely in academia and industries. Its limitations, due to the use of tree structures, have been studied by different researchers. One improvement beyond tree structures is iNNE [2] which employs hyperspheres as the isolation mechanism. Both Isolation Forest and iNNE have also provided a new solution to the emerging new class (zero-shot) problem in data streams [24,25], a seemingly unrelated classification probblem.
 
 
 The development of isolation-based methods has grown outside the confines of anomaly detection since. In 2010, Isolation Forest is shown to be a special case of mass estimation [3] (i.e., an alternative to density estimation.)  
 
 
-In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first introduced as an alternative to data independent kernels such as Gaussian and Laplacian kernels. It has a unique characteristic:  two points, as measured by Isolation Kernel derived with a dataset in a sparse region, are more similar than the same two points, as measured by Isolation Kernel derived with a dataset in a dense region. This characteristic is derived from data directly; and IK has no closed form expression and does not require learning. Isolation Kernel has three implementations using different isolation mechanisms up to 2021 [4,5,6]. IK has been shown to be the key in achieving large scale online kernel learning [7], improving the efficacy & efficiency of t-SNE [15] and inspiring a new data dependent kernel as the key in building a perisitence diagram which is robust to noise and varied densities in Topological data anlaysis [20].
+In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first introduced as an alternative to data independent kernels such as Gaussian and Laplacian kernels. It has a unique characteristic:  two points, as measured by Isolation Kernel derived with a dataset in a sparse region, are more similar than the same two points, as measured by Isolation Kernel derived with a dataset in a dense region. This characteristic is derived from data directly; and IK has no closed form expression and does not require learning. Isolation Kernel has three implementations using different isolation mechanisms up to 2021 [4,5,6]. IK has been shown to be the key in achieving large scale online kernel learning [7], improving the efficacy & efficiency of t-SNE [15], and inspiring a new data dependent kernel as the key in building a perisitence diagram which is robust to noise and varied densities in Topological data anlaysis [20].
 
 
 In 2020, Isolation Distributional Kernel or IDK is introduced to measure the similarity of two distributions [6], based on the framework of kernel mean embedding [8]. The first application of IDK is a kernel-based point anomaly detector that needs no learning, unlike OCSVM [9]. Through IDK point anomaly detector, Isolation Forest is linked to a kernel-based method for the very first time. IDK has since been applied to 
@@ -74,6 +74,15 @@ treatment for time series anomaly detection. The VLDB Journal.
 [23] Y. Cao, Y. Zhu, K. M. Ting, F. D. Salim, H. X. Li, L. Yang, G. Li (2024). Detecting
 change intervals with isolation distributional kernel. Journal of Artificial
 Intelligence Research, 79:273–306.
+
+[24] Xin Mu, Kai Ming Ting, and Zhi-Hua Zhou. 2017. Classification under stream-
+ing emerging new classes: A solution using completely-random trees. IEEE
+Transactions on Knowledge and Data Engineering 29, 8 (2017), 1605–1618.
+
+[25] Xin-Qiang Cai, Peng Zhao, Kai-Ming Ting, Xin Mu, and Yuan Jiang. 2019. Nearest
+neighbor ensembles: An effective method for difficult problems in streaming
+classification with emerging new classes. In 2019 IEEE international conference on
+data mining. IEEE, 970–975.
 <!--
 
 **Here are some ideas to get you started:**
