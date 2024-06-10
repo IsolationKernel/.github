@@ -104,9 +104,9 @@ data mining. IEEE, 970–975.
 | |IK-AHC|[PR2023](PDF/PR2023_AHC.pdf)                                                                                                                                       |[code](https://github.com/IsolationKernel/IK_AHC.git)|
 | |IDKC|[IS2023](PDF/IS2023.pdf)                                                                                  | [code](https://github.com/zhuye88/IDKC.git)|
 | |StreakHC|[SIGKDD2022](PDF/SIGKDD2022_SHC.pdf)   |[code](https://github.com/IsolationKernel/StreaKHC.git)|
-| |TIDKC | |[code](https://github.com/IsolationKernel/TIDKC.git)|
+| |TIDKC |[ICDM2023](https://github.com/IsolationKernel/Codes/blob/main/PDF/Distribution-Based_Trajectory_Clustering.pdf)|[code](https://github.com/IsolationKernel/TIDKC.git)|
 | Group|Graph Anomaly Detection|[SIAM2023](PDF/SIAM2023_SubgraphCentralization_ANecessaryStepforGraphAnomalyDetection.pdf)               |[code](https://github.com/IsolationKernel/GraphAnomalyDetection.git)|
 | |iCID| |[code](https://github.com/IsolationKernel/iCID.git)|
 |Graph|IGK|[AAAI2021](PDF/AAAI2021.pdf)                                                              |[code](https://github.com/IsolationKernel/IGK.git)|
-|Trajectory|Trajectory Data Mining| |[code](https://github.com/IsolationKernel/TrajectoryDataMining.git)|
+|Trajectory|Trajectory Data Mining|[JAIR2024](https://github.com/IsolationKernel/Codes/blob/main/PDF/JAIR2024.pdf)|[code](https://github.com/IsolationKernel/TrajectoryDataMining.git)|
 |Time Series|Time Series|[VLDB2022](PDF/VLDB2022.pdf)                                                                              |[code](https://github.com/IsolationKernel/TS.git)|
