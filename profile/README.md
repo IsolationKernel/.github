@@ -85,7 +85,7 @@ classification with emerging new classes. In 2019 IEEE international conference 
 data mining. IEEE, 970–975.
 
 [26] Kai Ming Ting, Takashi Washio, Ye Zhu, Yang Xu, Kaifeng Zhang,
-Is it possible to find the single nearest neighbor of a query in high dimensions?,
+Is it possible to find the single nearest neighbor of a query in high dimensions?
 Artificial Intelligence,
 Volume 336,
 2024,
