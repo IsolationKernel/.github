@@ -11,7 +11,7 @@ The development of isolation-based methods has grown outside the confines of ano
 
 In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first introduced as an alternative to data independent kernels such as Gaussian and Laplacian kernels. It has a unique characteristic:  two points, as measured by Isolation Kernel derived with a dataset in a sparse region, are more similar than the same two points, as measured by Isolation Kernel derived with a dataset in a dense region. This characteristic is derived from data directly; and IK has no closed form expression and does not require learning. Isolation Kernel has three implementations using different isolation mechanisms up to 2021 [4,5,6]. IK has been shown to be the key in achieving large scale online kernel learning [7], improving the efficacy & efficiency of t-SNE [15], and inspiring a new data dependent kernel as the key in building a perisitence diagram which is robust to noise and varied densities in Topological data anlaysis [20].
 
-[**Breaking news**] Isolation Kernel has just been shown to be the only measure that enables to find the exact nearest neighbor of a query in high dimensions----addressing a longstanding open problem in the study of curse of dimensionality [26].
+[**Breaking news**] Isolation Kernel has just been shown to be the only measure that can find the exact nearest neighbor of a query in high dimensions----addressing a longstanding open problem in the study of curse of dimensionality [26].
 
 In 2020, Isolation Distributional Kernel or IDK is introduced to measure the similarity of two distributions [6], based on the framework of kernel mean embedding [8]. The first application of IDK is a kernel-based point anomaly detector that needs no learning, unlike OCSVM [9]. Through IDK point anomaly detector, Isolation Forest is linked to a kernel-based method for the very first time. IDK has since been applied to 
 * Group anomaly detection [10], graph classification via Isolation Graph Kernel [11], multi-instance learning [12], graph anomaly detection [18].
@@ -81,8 +81,8 @@ Transactions on Knowledge and Data Engineering 29, 8 (2017), 1605–1618.
 
 [25] Xin-Qiang Cai, Peng Zhao, Kai-Ming Ting, Xin Mu, and Yuan Jiang. 2019. Nearest
 neighbor ensembles: An effective method for difficult problems in streaming
-classification with emerging new classes. In 2019 IEEE international conference on
-data mining. IEEE, 970–975.
+classification with emerging new classes. In  Proceedings of The IEEE International Conference on
+Data Mining. 970–975.
 
 [26] Kai Ming Ting, Takashi Washio, Ye Zhu, Yang Xu, Kaifeng Zhang,
 Is it possible to find the single nearest neighbor of a query in high dimensions?
