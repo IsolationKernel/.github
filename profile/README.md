@@ -9,7 +9,7 @@ Isolation Forest is one of the most effective and efficient anomaly detectors cr
 The development of isolation-based methods has grown outside the confines of anomaly detection since. In 2010, Isolation Forest is shown to be a special case of mass estimation [3] (i.e., an alternative to density estimation.)  
 
 
-In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first introduced as an alternative to data independent kernels such as Gaussian and Laplacian kernels. It has a unique characteristic:  two points, as measured by Isolation Kernel derived with a dataset in a sparse region, are more similar than the same two points, as measured by Isolation Kernel derived with a dataset in a dense region. This characteristic is derived from data directly; and IK has no closed form expression and does not require learning. Isolation Kernel has three implementations using different isolation mechanisms up to 2021 [4,5,6]. IK has been shown to be the key in achieving large scale online kernel learning [7], improving the efficacy & efficiency of t-SNE [15], and inspiring a new data dependent kernel as the key in building a perisitence diagram which is robust to noise and varied densities in Topological data anlaysis [20].
+In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first introduced as an alternative to data independent kernels such as Gaussian and Laplacian kernels. It has a unique characteristic:  two points, as measured by Isolation Kernel derived with a dataset in a sparse region, are more similar than the same two points, as measured by Isolation Kernel derived with a dataset in a dense region. This characteristic is derived from data directly; and IK has no closed form expression and does not require learning. Isolation Kernel has three implementations using different isolation mechanisms up to 2021 [4,5,6]. IK has been shown to be the key in achieving large scale online kernel learning [7], improving the efficacy & efficiency of t-SNE [15], and inspiring a new data dependent kernel as the key in building a persistence diagram which is robust to noise and varied densities in Topological data analysis [20].
 
 [**Breaking news**] Isolation Kernel has just been shown to be the only measure that can find the exact nearest neighbor of a query in high dimensions----addressing a longstanding open problem in the study of curse of dimensionality [26].
 
@@ -21,6 +21,7 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 * Change interval detection in data streams [23].
 * Trajecotry retrieval, anomaly detection and clustering [21].
 * A new treatment for timeseries [17,22]. This is a paradigm shift from the time domain and frequency domain approaches that have been around for more than 100 years.
+* Spatial Transcriptomics [27]
 
 
 ## References
@@ -90,6 +91,8 @@ Artificial Intelligence,
 Volume 336,
 2024,
 104206. https://doi.org/10.1016/j.artint.2024.104206
+
+[27] Kernel-Bounded Clustering for spatial transcriptomics enables scalable discovery of complex spatial domains, to appear in Genome Research.
 <!--
 
 **Here are some ideas to get you started:**
