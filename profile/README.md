@@ -115,9 +115,9 @@ Volume 336,
 | |IK-AHC|[PR2023](PDF/PR2023_AHC.pdf)                                                                                                                                       |[code](https://github.com/IsolationKernel/IK_AHC.git)|
 | |IDKC|[IS2023](PDF/IS2023.pdf)                                                                                  | [code](https://github.com/zhuye88/IDKC.git)|
 | |StreakHC|[SIGKDD2022](PDF/SIGKDD2022_SHC.pdf)   |[code](https://github.com/IsolationKernel/StreaKHC.git)|
-| |TIDKC |[ICDM2023](https://github.com/IsolationKernel/Codes/blob/main/PDF/Distribution-Based_Trajectory_Clustering.pdf)|[code](https://github.com/IsolationKernel/TIDKC.git)|
-| Data Streams |iCID: Change Interval Detection| |[code](https://github.com/IsolationKernel/iCID.git)|
+| Data Streams |iCID: Change Interval Detection| JAIR2024 |[code](https://github.com/IsolationKernel/iCID.git)|
 |Graph|IGK for classification |[AAAI2021](PDF/AAAI2021.pdf)                                                              |[code](https://github.com/IsolationKernel/IGK.git)|
 | |Graph Anomaly Detection|[SIAM2023](PDF/SIAM2023_SubgraphCentralization_ANecessaryStepforGraphAnomalyDetection.pdf)               |[code](https://github.com/IsolationKernel/GraphAnomalyDetection.git)|
 |Trajectory|Trajectory Anomaly Detection |[JAIR2024](https://github.com/IsolationKernel/Codes/blob/main/PDF/JAIR2024.pdf)|[code](https://github.com/IsolationKernel/TrajectoryDataMining.git)|
+| |TIDKC: Trajectory Clustering |[ICDM2023](https://github.com/IsolationKernel/Codes/blob/main/PDF/Distribution-Based_Trajectory_Clustering.pdf)|[code](https://github.com/IsolationKernel/TIDKC.git)|
 |Time Series|Time Series|[VLDB2022](PDF/VLDB2022.pdf)                                                                              |[code](https://github.com/IsolationKernel/TS.git)|
