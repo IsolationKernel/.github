@@ -114,7 +114,7 @@ Volume 336,
 |Clustering Methods|psKC|[TKDE2023](PDF/TKDE_Point-Set_Kernel_Clustering.pdf)                                                                         |[code](https://github.com/IsolationKernel/psKC.git) |
 | |IK-AHC|[PR2023](PDF/PR2023_AHC.pdf)                                                                                                                                       |[code](https://github.com/IsolationKernel/IK_AHC.git)|
 | |IDKC|[IS2023](PDF/IS2023.pdf)                                                                                  | [code](https://github.com/zhuye88/IDKC.git)|
-| |KBC in Spatial Transcriptomics|[Genome Research](Genome Research)                                                                                  | [code](https://github.com/IsolationKernel/Kernel-Bounded-Clustering-for-Spatial-Transcriptomics)|
+| |KBC in Spatial Transcriptomics|(Genome Research)                                                                                  | [code](https://github.com/IsolationKernel/Kernel-Bounded-Clustering-for-Spatial-Transcriptomics)|
 | Data Streams |StreakHC: Online Hierarchical Clustering|[SIGKDD2022](PDF/SIGKDD2022_SHC.pdf)   |[code](https://github.com/IsolationKernel/StreaKHC.git)|
 |  |iCID: Change Interval Detection| [JAIR2024](PDF/iCID_JAIR.pdf) |[code](https://github.com/IsolationKernel/iCID.git)|
 |Graph|IGK for classification |[AAAI2021](PDF/AAAI2021.pdf)                                                              |[code](https://github.com/IsolationKernel/IGK.git)|
