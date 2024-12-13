@@ -90,7 +90,7 @@ Is it possible to find the single nearest neighbor of a query in high dimensions
 Artificial Intelligence,
 Volume 336,
 2024,
-104206. https://doi.org/10.1016/j.artint.2024.104206
+104206. [[pdf]](https://doi.org/10.1016/j.artint.2024.104206)
 
 [27] Kernel-Bounded Clustering for spatial transcriptomics enables scalable discovery of complex spatial domains, to appear in Genome Research.
 <!--
