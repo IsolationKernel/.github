@@ -75,7 +75,7 @@ treatment for time series anomaly detection. The VLDB Journal.
 
 [23] Y. Cao, Y. Zhu, K. M. Ting, F. D. Salim, H. X. Li, L. Yang, G. Li (2024). Detecting
 change intervals with isolation distributional kernel. Journal of Artificial
-Intelligence Research, 79:273–306.
+Intelligence Research, 79:273–306. [[pdf]](https://github.com/IsolationKernel/.github/blob/main/profile/PDF/iCID_JAIR.pdf)
 
 [24] Xin Mu, Kai Ming Ting, and Zhi-Hua Zhou. 2017. Classification under streaming emerging new classes: A solution using completely-random trees. IEEE
 Transactions on Knowledge and Data Engineering 29, 8 (2017), 1605–1618.
