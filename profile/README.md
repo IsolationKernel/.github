@@ -92,7 +92,7 @@ Volume 336,
 2024,
 104206. [[pdf]](https://doi.org/10.1016/j.artint.2024.104206)
 
-[27] Kernel-Bounded Clustering for spatial transcriptomics enables scalable discovery of complex spatial domains, to appear in Genome Research. (https://github.com/IsolationKernel/Kernel-Bounded-Clustering-for-Spatial-Transcriptomics)
+[27] Kernel-Bounded Clustering for spatial transcriptomics enables scalable discovery of complex spatial domains. To appear in Genome Research.
 <!--
 
 **Here are some ideas to get you started:**
