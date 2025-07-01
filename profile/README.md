@@ -21,7 +21,8 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 * Change interval detection in data streams [23].
 * Trajecotry retrieval, anomaly detection and clustering [21].
 * A new treatment for timeseries [17,22]. This is a paradigm shift from the time domain and frequency domain approaches that have been around for more than 100 years.
-* Spatial Transcriptomics [27]
+* Spatial Transcriptomics [27].
+* Explaining why many anomaly detectors could not justify their detected 'anomaly' to be rare and different from the majority of the instances in the given dataset under investigation [28].
 
 
 ## References
@@ -92,7 +93,9 @@ Volume 336,
 2024,
 104206. [[pdf]](https://doi.org/10.1016/j.artint.2024.104206)
 
-[27] Kernel-Bounded Clustering for spatial transcriptomics enables scalable discovery of complex spatial domains. To appear in Genome Research.
+[27] Hang Zhang, Yi Zhang, Kai Ming Ting, Jie Zhang, Qiuran Zhao, Kernel-Bounded Clustering for spatial transcriptomics enables scalable discovery of complex spatial domains. Genome Research 2025 35(2):355–367. doi: 10.1101/gr.278983.124
+
+[28] Kai Ming Ting, Zhong Zhuang, Guansong Pang, Zongyou Liu, Tianrun Liang, and Qiuran Zhao. 2025. What are anomalies in a network? ACM Transactions on Knowledge Discovery from Data. https://doi.org/10.1145/3723007
 <!--
 
 **Here are some ideas to get you started:**
