@@ -17,12 +17,12 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 * Group anomaly detection [10], graph classification via Isolation Graph Kernel [11], multi-instance learning [12], graph anomaly detection [18].
 * IDK can be interpreted as a kernel density estimator called Isolation Kernel Density Estimator [13]. 
 * A new class of clustering algorithms which employs IDK to grow a cluster by treating each cluster as a distribution. Two such methods are psKC (or point-set Kernel Clustering) [14], and IDKC (Isolation Distributional Kernel Clustering) [19]. They are the only clustering algorithms which are both effective and efficient---a quality which is all but nonexistent in current clustering algorithms. They are also the only kernel-based clustering algorithms which have linear time complexity.
-* A new class of online Agglomerative Hierarchical Clustering [16] that makes use of the idea of point-set kernel.
+* A new class of online Agglomerative Hierarchical Clustering [16].
 * Change interval detection in data streams [23].
 * Trajecotry retrieval, anomaly detection and clustering [21].
 * A new treatment for timeseries [17,22]. This is a paradigm shift from the time domain and frequency domain approaches that have been around for more than 100 years.
 * Spatial Transcriptomics [27].
-* Explaining why many anomaly detectors could not justify their detected 'anomaly' to be rare and different from the majority of the instances in the given dataset under investigation [28].
+* Explaining why many anomaly detectors could not justify their detected 'anomaly' to be rare and different from the majority of the instances in a given dataset under investigation [28].
 
 
 ## References
