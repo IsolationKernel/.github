@@ -118,7 +118,7 @@ Volume 336,
 | |IK-AHC|[PR2023](PDF/PR2023_AHC.pdf)                                                                                                                                       |[code](https://github.com/IsolationKernel/IK_AHC.git)|
 | |IDKC|[IS2023](PDF/IS2023.pdf)                                                                                  | [code](https://github.com/zhuye88/IDKC.git)|
 | |Kernel-bounded-clustering-versus-spectral-clustering|[AIJ2025](Artificial Intelligence)                                  | [code](https://github.com/IsolationKernel/Kernel-bounded-clustering-versus-spectral-clustering)|
-| |KBC in Spatial Transcriptomics|[GR](Genome Research)                                                                                  | [code](https://github.com/IsolationKernel/Kernel-Bounded-Clustering-for-Spatial-Transcriptomics)|
+| |KBC in Spatial Transcriptomics|[GR](PDF/Genome_Res.-2025-Zhang-355-67.pdf)                                                                                  | [code](https://github.com/IsolationKernel/Kernel-Bounded-Clustering-for-Spatial-Transcriptomics)|
 | Data Streams |StreakHC: Online Hierarchical Clustering|[SIGKDD2022](PDF/SIGKDD2022_SHC.pdf)   |[code](https://github.com/IsolationKernel/StreaKHC.git)|
 |  |iCID: Change Interval Detection| [JAIR2024](PDF/iCID_JAIR.pdf) |[code](https://github.com/IsolationKernel/iCID.git)|
 |Graph|IGK for classification |[AAAI2021](PDF/AAAI2021.pdf)                                                              |[code](https://github.com/IsolationKernel/IGK.git)|
