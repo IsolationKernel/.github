@@ -16,7 +16,7 @@ In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first intr
 In 2020, Isolation Distributional Kernel or IDK is introduced to measure the similarity of two distributions [6], based on the framework of kernel mean embedding [8]. The first application of IDK is a kernel-based point anomaly detector that needs no learning, unlike OCSVM [9]. Through IDK point anomaly detector, Isolation Forest is linked to a kernel-based method for the very first time. IDK has since been applied to 
 * Group anomaly detection [10], graph classification via Isolation Graph Kernel [11], multi-instance learning [12], graph anomaly detection [18].
 * IDK can be interpreted as a kernel density estimator called Isolation Kernel Density Estimator [13]. 
-* A new class of clustering algorithms which employs IDK to grow a cluster by treating each cluster as a distribution. Two such methods are psKC (or point-set Kernel Clustering) [14], and IDKC (Isolation Distributional Kernel Clustering) [19]. They are the only clustering algorithms which are both effective and efficient---a quality which is all but nonexistent in current clustering algorithms. They are also the only kernel-based clustering algorithms which have linear time complexity.
+* IDK-based Clustering is a new class of clustering algorithms which employs IDK to grow a cluster by treating each cluster as a distribution. Three such methods are psKC (or point-set Kernel Clustering) [14], IDKC (Isolation Distributional Kernel Clustering) [19] and Kernel Bounded Clustering [29]. They are the only clustering algorithms which are both effective and efficient---a quality which is all but nonexistent in current clustering algorithms. They are also the only kernel-based clustering algorithms which have linear time complexity.
 * A new class of online Agglomerative Hierarchical Clustering [16].
 * Change interval detection in data streams [23].
 * Trajecotry retrieval, anomaly detection and clustering [21].
@@ -24,6 +24,7 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 * Spatial Transcriptomics [27].
 * Explaining why many anomaly detectors could not justify their detected 'anomaly' to be rare and different from the majority of the instances in a given dataset under investigation [28].
 
+[**Breaking news**] An IDK-based Clustering called Kernel-bounded clustering is shown to achieve the objective of spectral clustering (SC) without eigendecomposition---the unquestioned tool in 50 years of SC research [29].
 
 ## References
 [1] Fei Tony Liu, Kai Ming Ting, Zhi-Hua Zhou (2008) Isolation Forest. Proceedings of IEEE ICDM, 413-422. [[pdf]](https://github.com/IsolationKernel/Codes/blob/main/PDF/Isolation%20Forest.pdf)
@@ -96,6 +97,14 @@ Volume 336,
 [27] Hang Zhang, Yi Zhang, Kai Ming Ting, Jie Zhang, Qiuran Zhao, Kernel-Bounded Clustering for spatial transcriptomics enables scalable discovery of complex spatial domains. Genome Research 2025 35(2):355–367. doi: 10.1101/gr.278983.124
 
 [28] Kai Ming Ting, Zhong Zhuang, Guansong Pang, Zongyou Liu, Tianrun Liang, and Qiuran Zhao. 2025. What are anomalies in a network? ACM Transactions on Knowledge Discovery from Data. https://doi.org/10.1145/3723007
+
+[29] Hang Zhang, Kai Ming Ting, Ye Zhu,
+Kernel-bounded clustering: Achieving the objective of spectral clustering without eigendecomposition,
+Artificial Intelligence,
+Volume 350,
+2026,
+https://doi.org/10.1016/j.artint.2025.104440.
+
 <!--
 
 **Here are some ideas to get you started:**
