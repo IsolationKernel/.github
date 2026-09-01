@@ -19,12 +19,15 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 * IDK-based Clustering is a new class of clustering algorithms which employs IDK to grow a cluster by treating each cluster as a distribution. Three such methods are psKC (or point-set Kernel Clustering) [14], IDKC (Isolation Distributional Kernel Clustering) [19] and Kernel Bounded Clustering [29]. They are the only clustering algorithms which are both effective and efficient---a quality which is all but nonexistent in current clustering algorithms. They are also the only kernel-based clustering algorithms which have linear time complexity.
 * A new class of online Agglomerative Hierarchical Clustering [16].
 * Change interval detection in data streams [23].
-* Trajecotry retrieval, anomaly detection and clustering [21].
+* Trajectory retrieval, anomaly detection and clustering [21].
 * A new treatment for timeseries [17,22]. This is a paradigm shift from the time domain and frequency domain approaches that have been around for more than 100 years.
 * Spatial Transcriptomics [27].
 * Explaining why many anomaly detectors could not justify their detected 'anomaly' to be rare and different from the majority of the instances in a given dataset under investigation [28].
+* Streaming anomaly detection [30]
 
 [**Breaking news**] An IDK-based Clustering called Kernel-bounded clustering is shown to achieve the objective of spectral clustering (SC) without eigendecomposition---the unquestioned tool in 50 years of SC research [29].
+
+The first book on this topic is: Isolation-Inspired Machine Learning: To Succeed when Deep Learning Fails (https://link.springer.com/book/9789819231508) 
 
 ## References
 [1] Fei Tony Liu, Kai Ming Ting, Zhi-Hua Zhou (2008) Isolation Forest. Proceedings of IEEE ICDM, 413-422. [[pdf]](https://github.com/IsolationKernel/Codes/blob/main/PDF/Isolation%20Forest.pdf)
@@ -104,6 +107,9 @@ Artificial Intelligence,
 Volume 350,
 2026,
 https://doi.org/10.1016/j.artint.2025.104440.
+
+[30] Yang Xu, Yixiao Ma, Kaifeng Zhang, Zuliang Yang, Kai Ming Ting,
+IDK-S: Incremental Distributional Kernel for Streaming Anomaly Detection. AAAI 2026: 16075-16082
 
 <!--
 
