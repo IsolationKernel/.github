@@ -53,9 +53,9 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 
 [7] Kai Ming Ting, Jonathan R. Wells, Takashi Washio (2021). Isolation Kernel: The X Factor in Efficient and Effective Large Scale Online Kernel Learning. Data Mining and Knowledge Discovery. [[pdf]](https://github.com/IsolationKernel/Codes/blob/main/PDF/Isolation%20Kernel-The%20X%20Factor%20in%20Efficient%20and%20Effective%20Large%20Scale%20Online%20Kernel%20Learning.pdf)
 
-[8] Alex Smola, Arthur Gretton, Le Song, Bernhard Schölkopf. 2007. A Hilbert Space Embedding for Distributions. In Algorithmic Learning Theory, Marcus Hutter, Rocco A. Servedio, and Eiji Takimoto (Eds.). Springer, 13–31.
+[8] Alex Smola, Arthur Gretton, Le Song, Bernhard Schölkopf. (2007). A Hilbert Space Embedding for Distributions. In Algorithmic Learning Theory, Marcus Hutter, Rocco A. Servedio, and Eiji Takimoto (Eds.). Springer, 13–31.
 
-[9] Bernhard Schölkopf, John C. Platt, John C. Shawe-Taylor, Alex J. Smola, Robert C. Williamson. 2001. Estimating the Support of a High-Dimensional Distribution. Neural Computing 13, 7 (2001), 1443–1471.
+[9] Bernhard Schölkopf, John C. Platt, John C. Shawe-Taylor, Alex J. Smola, Robert C. Williamson. (2001). Estimating the Support of a High-Dimensional Distribution. Neural Computing 13, 7, 1443–1471.
 
 [10] Kai Ming Ting, Bi-Cun Xu, Washio Takashi, Zhi-Hua Zhou (2022). Isolation Distributional Kernel: A new tool for kernel based point and group anomaly detections. IEEE Transactions on Knowledge and Data Engineering. ieeexplore.ieee.org/document/9573389. [[pdf]](https://github.com/IsolationKernel/Codes/blob/main/PDF/Isolation%20Distributional%20Kernel-A%20New%20Tool%20for%20point%20and%20group%20anomaly%20detection.pdf)
 
@@ -65,13 +65,13 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 
 [13]  Kai Ming Ting, Takashi Washio, Jonathan R. Wells, Hang Zhang (2021). Isolation Kernel Density Estimation. Proceedings of IEEE ICDM. 619-628 [[pdf]](https://github.com/IsolationKernel/Codes/blob/main/PDF/Isolation_Kernel_Density_Estimation.pdf)
 
-[14] Kai Ming Ting, Jonathan R. Wells, Ye Zhu (2023) Point-set Kernel Clustering. IEEE Transactions on Knowledge and Data Engineering. Vol.35, 5147-5158 [[pdf]](https://github.com/IsolationKernel/Codes/blob/main/PDF/Point-Set%20Kernel%20Clustering.pdf)
+[14] Kai Ming Ting, Jonathan R. Wells, Ye Zhu (2023). Point-set Kernel Clustering. IEEE Transactions on Knowledge and Data Engineering. Vol.35, 5147-5158 [[pdf]](https://github.com/IsolationKernel/Codes/blob/main/PDF/Point-Set%20Kernel%20Clustering.pdf)
 
-[15] Ye Zhu, Kai Ming Ting (2021) Improving the Effectiveness and Efficiency of Stochastic Neighbour Embedding with Isolation Kernel. Journal of Artificial Intelligence Research 71, 667-695. [[pdf]](https://github.com/IsolationKernel/Codes/blob/main/PDF/Improving%20the%20Effectiveness%20and%20Efficiency%20of%20Stochastic%20Neighbour%20Embedding%20with%20Isolation%20Kernel.pdf)
+[15] Ye Zhu, Kai Ming Ting (2021). Improving the Effectiveness and Efficiency of Stochastic Neighbour Embedding with Isolation Kernel. Journal of Artificial Intelligence Research 71, 667-695. [[pdf]](https://github.com/IsolationKernel/Codes/blob/main/PDF/Improving%20the%20Effectiveness%20and%20Efficiency%20of%20Stochastic%20Neighbour%20Embedding%20with%20Isolation%20Kernel.pdf)
 
-[16] Xin Han, Ye Zhu, Kai Ming Ting, De-Chuan Zhan, Gang Li (2022) Streaming Hierarchical Clustering Based on Point-Set Kernel. Proceedings of The ACM SIGKDD Conference on Knowledge Discovery and Data Mining. [[pdf]](https://www.researchsquare.com/article/rs-1711503/v1.pdf)
+[16] Xin Han, Ye Zhu, Kai Ming Ting, De-Chuan Zhan, Gang Li (2022). Streaming Hierarchical Clustering Based on Point-Set Kernel. Proceedings of The ACM SIGKDD Conference on Knowledge Discovery and Data Mining. [[pdf]](https://www.researchsquare.com/article/rs-1711503/v1.pdf)
 
-[17] Kai Ming Ting, Zongyou Liu, Hang Zhang, Ye Zhu (2022) A New Distributional Treatment for Time Series and An Anomaly Detection Investigation. Proceedings of The Very Large Data Bases (VLDB) Conference. [[pdf]](https://www.vldb.org/pvldb/vol15/p2321-liu.pdf)
+[17] Kai Ming Ting, Zongyou Liu, Hang Zhang, Ye Zhu (2022). A New Distributional Treatment for Time Series and An Anomaly Detection Investigation. Proceedings of The Very Large Data Bases (VLDB) Conference. [[pdf]](https://www.vldb.org/pvldb/vol15/p2321-liu.pdf)
 
 [18] Zhong Zhuang, Kai Ming Ting, Guansong Pang, Shuaibin Song (2023). Subgraph Centralization: A Necessary Step for Graph Anomaly Detection. Proceedings of The SIAM Conference on Data Mining. 
 
@@ -91,58 +91,57 @@ treatment for time series anomaly detection. The VLDB Journal.
 change intervals with isolation distributional kernel. Journal of Artificial
 Intelligence Research, 79:273–306. [[pdf]](https://github.com/IsolationKernel/.github/blob/main/profile/PDF/iCID_JAIR.pdf)
 
-[24] Xin Mu, Kai Ming Ting, and Zhi-Hua Zhou. 2017. Classification under streaming emerging new classes: A solution using completely-random trees. IEEE
-Transactions on Knowledge and Data Engineering 29, 8 (2017), 1605–1618.
+[24] Xin Mu, Kai Ming Ting, and Zhi-Hua Zhou (2017). Classification under streaming emerging new classes: A solution using completely-random trees. IEEE
+Transactions on Knowledge and Data Engineering 29, 8, 1605–1618.
 
-[25] Xin-Qiang Cai, Peng Zhao, Kai-Ming Ting, Xin Mu, and Yuan Jiang. 2019. Nearest
+[25] Xin-Qiang Cai, Peng Zhao, Kai-Ming Ting, Xin Mu, and Yuan Jiang (2019). Nearest
 neighbor ensembles: An effective method for difficult problems in streaming
 classification with emerging new classes. In  Proceedings of The IEEE International Conference on
 Data Mining. 970–975.
 
-[26] Kai Ming Ting, Takashi Washio, Ye Zhu, Yang Xu, Kaifeng Zhang,
+[26] Kai Ming Ting, Takashi Washio, Ye Zhu, Yang Xu, Kaifeng Zhang (2024).
 Is it possible to find the single nearest neighbor of a query in high dimensions?
 Artificial Intelligence,
 Volume 336,
-2024,
 104206. [[pdf]](https://doi.org/10.1016/j.artint.2024.104206)
 
-[27] Hang Zhang, Yi Zhang, Kai Ming Ting, Jie Zhang, Qiuran Zhao, Kernel-Bounded Clustering for spatial transcriptomics enables scalable discovery of complex spatial domains. Genome Research 2025 35(2):355–367. doi: 10.1101/gr.278983.124
+[27] Hang Zhang, Yi Zhang, Kai Ming Ting, Jie Zhang, Qiuran Zhao (2025). Kernel-Bounded Clustering for spatial transcriptomics enables scalable discovery of complex spatial domains. Genome Research 35(2):355–367. doi: 10.1101/gr.278983.124
 
-[28] Kai Ming Ting, Zhong Zhuang, Guansong Pang, Zongyou Liu, Tianrun Liang, and Qiuran Zhao. 2025. What are anomalies in a network? ACM Transactions on Knowledge Discovery from Data. https://doi.org/10.1145/3723007
+[28] Kai Ming Ting, Zhong Zhuang, Guansong Pang, Zongyou Liu, Tianrun Liang, and Qiuran Zhao. (2025). What are anomalies in a network? ACM Transactions on Knowledge Discovery from Data. https://doi.org/10.1145/3723007
 
-[29] Hang Zhang, Kai Ming Ting, Ye Zhu,
+[29] Hang Zhang, Kai Ming Ting, Ye Zhu (2026).
 Kernel-bounded clustering: Achieving the objective of spectral clustering without eigendecomposition,
 Artificial Intelligence,
 Volume 350,
-2026,
 https://doi.org/10.1016/j.artint.2025.104440.
 
-[30] Yang Xu, Yixiao Ma, Kaifeng Zhang, Zuliang Yang, Kai Ming Ting,
-IDK-S: Incremental Distributional Kernel for Streaming Anomaly Detection. AAAI 2026: 16075-16082
+[30] Yang Xu, Yixiao Ma, Kaifeng Zhang, Zuliang Yang, Kai Ming Ting (2026).
+IDK-S: Incremental Distributional Kernel for Streaming Anomaly Detection. AAAI: 16075-16082
 
-[31] Yang Xu, Hang Zhang, Yixiao Ma, Ye Zhu, Kai Ming Ting,
-SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection. AAAI 2026: 16083-16090
+[31] Yang Xu, Hang Zhang, Yixiao Ma, Ye Zhu, Kai Ming Ting (2026).
+SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection. AAAI: 16083-16090
 
-[32] 	Zhibo Zhang, Yang Xu, Kai Ming Ting, Cam-Tu Nguyen,
-LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval. ACL (Findings) 2026: 13601-13623
+[32] 	Zhibo Zhang, Yang Xu, Kai Ming Ting, Cam-Tu Nguyen(2026).
+LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval. ACL (Findings): 13601-13623
 
-[33] 	Yang Xu, Zuliang Yang, Kai Ming Ting,
-GeoPTH: A Lightweight Approach to Category-Based Trajectory Retrieval via Geometric Prototype Trajectory Hashing. AAAI 2026: 27359-27367
+[33] 	Yang Xu, Zuliang Yang, Kai Ming Ting (2026).
+GeoPTH: A Lightweight Approach to Category-Based Trajectory Retrieval via Geometric Prototype Trajectory Hashing. AAAI: 27359-27367
 
-[34] 	Xinpeng Li, Kai Ming Ting,
-Distribution-Based Feature Attribution for Explaining the Predictions of Any Classifier. AAAI 2026: 23221-23229
+[34] 	Xinpeng Li, Kai Ming Ting (2026).
+Distribution-Based Feature Attribution for Explaining the Predictions of Any Classifier. AAAI: 23221-23229
 
-[35] Qiuran Zhao, Kai Ming Ting, Xinpeng Li,
-Case-Based Interpretability in Graph-Level Anomaly Detection via Contrast with Normal Prototypes. ICCBR 2026: 152-168
+[35] Qiuran Zhao, Kai Ming Ting, Xinpeng Li (2026).
+Case-Based Interpretability in Graph-Level Anomaly Detection via Contrast with Normal Prototypes. ICCBR: 152-168
 
-[36] Xinpeng Li, Zile Jiang, Kai Ming Ting, Ye Zhu:
-Online Automatic Modulation Classification Based on Distributional Signal Representation. KSEM (1) 2026: 198-210
+[36] Xinpeng Li, Zile Jiang, Kai Ming Ting, Ye Zhu (2026).
+Online Automatic Modulation Classification Based on Distributional Signal Representation. KSEM: 198-210
 
-[37] Yang Xu, Kai Ming Ting,
-Voronoi Diagram Encoded Hashing. ECML/PKDD (2) 2025: 87-103
+[37] Yang Xu, Kai Ming Ting (2025).
+Voronoi Diagram Encoded Hashing. ECML/PKDD: 87-103
 
-[38] Yufan Wang, Zijing Wang, Kai Ming Ting, Yuanyi Shang,
-A Principled Distributional Approach to Trajectory Similarity Measurement and its Application to Anomaly Detection. J. Artif. Intell. Res. 79: 865-893 (2024)
+[38] Yufan Wang, Zijing Wang, Kai Ming Ting, Yuanyi Shang (2024).
+A Principled Distributional Approach to Trajectory Similarity Measurement and its Application to Anomaly Detection. J. Artif. Intell. Res. 79: 865-893
+
 
 <!--
 
