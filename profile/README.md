@@ -27,7 +27,7 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 
 [**Breaking news**] An IDK-based Clustering called Kernel-bounded clustering is shown to achieve the objective of spectral clustering (SC) without eigendecomposition---the unquestioned tool in 50 years of SC research [29].
 
-The first book on this topic is: Isolation-Inspired Machine Learning: To Succeed when Deep Learning Fails (https://link.springer.com/book/9789819231508) 
+The first book on this topic is: [Isolation-Inspired Machine Learning: To Succeed when Deep Learning Fails](https://link.springer.com/book/9789819231508) 
 
 ## References
 [1] Fei Tony Liu, Kai Ming Ting, Zhi-Hua Zhou (2008) Isolation Forest. Proceedings of IEEE ICDM, 413-422. [[pdf]](https://github.com/IsolationKernel/Codes/blob/main/PDF/Isolation%20Forest.pdf)
