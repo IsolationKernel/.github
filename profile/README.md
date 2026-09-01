@@ -13,6 +13,7 @@ In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first intr
 * enabling large scale online kernel learning [7],
 * achieving effective and efficient embedding for retrieval of LLM embedded vector databases [32],
 * empowering efficient and effective consistent neighborhood in multi-view anomaly detection [31],
+* realizing binary hashing without learning for vector databases that are better than learning-to-hash [37], 
 * improving the efficacy & efficiency of t-SNE [15], and
 * inspiring a new data dependent kernel as the key in building a persistence diagram which is robust to noise and varied densities in Topological data analysis [20].
 
@@ -24,7 +25,7 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 * IDK-based Clustering is a new class of clustering algorithms which employs IDK to grow a cluster by treating each cluster as a distribution. Three such methods are psKC (or point-set Kernel Clustering) [14], IDKC (Isolation Distributional Kernel Clustering) [19] and Kernel Bounded Clustering [29]. They are the only clustering algorithms which are both effective and efficient---a quality which is all but nonexistent in current clustering algorithms. They are also the only kernel-based clustering algorithms which have linear time complexity.
 * A new class of online Agglomerative Hierarchical Clustering [16].
 * Change interval detection in data streams [23].
-* Trajectory retrieval, anomaly detection and clustering [21], as well as category-based trajectory retrieval [33].
+* Trajectory retrieval, anomaly detection [38] and clustering [21], as well as category-based trajectory retrieval [33].
 * A new treatment for timeseries [17,22]. This is a paradigm shift from the time domain and frequency domain approaches that have been around for more than 100 years.
 * Spatial Transcriptomics [27].
 * Explaining why many anomaly detectors could not justify their detected 'anomaly' to be rare and different from the majority of the instances in a given dataset under investigation [28].
@@ -136,6 +137,12 @@ Case-Based Interpretability in Graph-Level Anomaly Detection via Contrast with N
 
 [36] Xinpeng Li, Zile Jiang, Kai Ming Ting, Ye Zhu:
 Online Automatic Modulation Classification Based on Distributional Signal Representation. KSEM (1) 2026: 198-210
+
+[37] Yang Xu, Kai Ming Ting,
+Voronoi Diagram Encoded Hashing. ECML/PKDD (2) 2025: 87-103
+
+[38] Yufan Wang, Zijing Wang, Kai Ming Ting, Yuanyi Shang,
+A Principled Distributional Approach to Trajectory Similarity Measurement and its Application to Anomaly Detection. J. Artif. Intell. Res. 79: 865-893 (2024)
 
 <!--
 
