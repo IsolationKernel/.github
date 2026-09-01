@@ -16,7 +16,7 @@ In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first intr
 * improving the efficacy & efficiency of t-SNE [15], and
 * inspiring a new data dependent kernel as the key in building a persistence diagram which is robust to noise and varied densities in Topological data analysis [20].
 
-### [**Breaking news**] Isolation Kernel has just been shown to be the only measure that can find the exact nearest neighbor of a query in high dimensions----addressing a longstanding open problem in the study of curse of dimensionality [26].
+### [**Breaking news**] Isolation Kernel is the only measure that can find the exact nearest neighbor of a query in high dimensions----addressing a longstanding open problem in the study of curse of dimensionality [26].
 
 In 2020, Isolation Distributional Kernel or IDK is introduced to measure the similarity of two distributions [6], based on the framework of kernel mean embedding [8]. The first application of IDK is a kernel-based point anomaly detector that needs no learning, unlike OCSVM [9]. Through IDK point anomaly detector, Isolation Forest is linked to a kernel-based method for the very first time. IDK has since been applied to 
 * Group anomaly detection [10], graph classification via Isolation Graph Kernel [11], multi-instance learning [12], graph anomaly detection [18].
@@ -33,7 +33,7 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 * Case-based interpretability in graph-level anomaly detection [35]
 * Online automatic modulation classification [36]. 
 
-### [**Breaking news**] An IDK-based Clustering called Kernel-bounded clustering is shown to achieve the objective of spectral clustering (SC) without eigendecomposition---the unquestioned tool in 50 years of SC research [29].
+### [**Breaking news**] An IDK-based Clustering called Kernel-bounded clustering achieves the objective of spectral clustering (SC) without eigendecomposition---the unquestioned tool in 50 years of SC research [29].
 
 ### The first book on this topic is: [Isolation-Inspired Machine Learning: To Succeed when Deep Learning Fails](https://link.springer.com/book/9789819231508) 
 
