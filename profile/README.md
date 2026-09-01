@@ -9,9 +9,14 @@ Isolation Forest is one of the most effective and efficient anomaly detectors cr
 The development of isolation-based methods has grown outside the confines of anomaly detection since. In 2010, Isolation Forest is shown to be a special case of mass estimation [3] (i.e., an alternative to density estimation.)  
 
 
-In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first introduced as an alternative to data independent kernels such as Gaussian and Laplacian kernels. It has a unique characteristic:  two points, as measured by Isolation Kernel derived with a dataset in a sparse region, are more similar than the same two points, as measured by Isolation Kernel derived with a dataset in a dense region. This characteristic is derived from data directly; and IK has no closed form expression and does not require learning. Isolation Kernel has three implementations using different isolation mechanisms up to 2021 [4,5,6]. IK has been shown to be the key in achieving large scale online kernel learning [7], improving the efficacy & efficiency of t-SNE [15], and inspiring a new data dependent kernel as the key in building a persistence diagram which is robust to noise and varied densities in Topological data analysis [20].
+In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first introduced as an alternative to data independent kernels such as Gaussian and Laplacian kernels. It has a unique characteristic:  two points, as measured by Isolation Kernel derived with a dataset in a sparse region, are more similar than the same two points, as measured by Isolation Kernel derived with a dataset in a dense region. This characteristic is derived from data directly; and IK has no closed form expression and does not require learning. Isolation Kernel has three implementations using different isolation mechanisms up to 2021 [4,5,6]. IK has been shown to be the key in  
+* enabling large scale online kernel learning [7],
+* achieving effective and efficient embedding for retrieval of LLM embedded vector databases [32],
+* empowering efficient and effective consistent neighborhood in multi-view anomaly detection [31],
+* improving the efficacy & efficiency of t-SNE [15], and
+* inspiring a new data dependent kernel as the key in building a persistence diagram which is robust to noise and varied densities in Topological data analysis [20].
 
-[**Breaking news**] Isolation Kernel has just been shown to be the only measure that can find the exact nearest neighbor of a query in high dimensions----addressing a longstanding open problem in the study of curse of dimensionality [26].
+### [**Breaking news**] Isolation Kernel has just been shown to be the only measure that can find the exact nearest neighbor of a query in high dimensions----addressing a longstanding open problem in the study of curse of dimensionality [26].
 
 In 2020, Isolation Distributional Kernel or IDK is introduced to measure the similarity of two distributions [6], based on the framework of kernel mean embedding [8]. The first application of IDK is a kernel-based point anomaly detector that needs no learning, unlike OCSVM [9]. Through IDK point anomaly detector, Isolation Forest is linked to a kernel-based method for the very first time. IDK has since been applied to 
 * Group anomaly detection [10], graph classification via Isolation Graph Kernel [11], multi-instance learning [12], graph anomaly detection [18].
@@ -19,15 +24,18 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 * IDK-based Clustering is a new class of clustering algorithms which employs IDK to grow a cluster by treating each cluster as a distribution. Three such methods are psKC (or point-set Kernel Clustering) [14], IDKC (Isolation Distributional Kernel Clustering) [19] and Kernel Bounded Clustering [29]. They are the only clustering algorithms which are both effective and efficient---a quality which is all but nonexistent in current clustering algorithms. They are also the only kernel-based clustering algorithms which have linear time complexity.
 * A new class of online Agglomerative Hierarchical Clustering [16].
 * Change interval detection in data streams [23].
-* Trajectory retrieval, anomaly detection and clustering [21].
+* Trajectory retrieval, anomaly detection and clustering [21], as well as category-based trajectory retrieval [33].
 * A new treatment for timeseries [17,22]. This is a paradigm shift from the time domain and frequency domain approaches that have been around for more than 100 years.
 * Spatial Transcriptomics [27].
 * Explaining why many anomaly detectors could not justify their detected 'anomaly' to be rare and different from the majority of the instances in a given dataset under investigation [28].
-* Streaming anomaly detection [30]
+* Streaming anomaly detection [30].
+* The first distribution-based feature attribution for explaining the predictions of any classifier [34].
+* Case-based interpretability in graph-level anomaly detection [35]
+* Online automatic modulation classification [36]. 
 
-[**Breaking news**] An IDK-based Clustering called Kernel-bounded clustering is shown to achieve the objective of spectral clustering (SC) without eigendecomposition---the unquestioned tool in 50 years of SC research [29].
+### [**Breaking news**] An IDK-based Clustering called Kernel-bounded clustering is shown to achieve the objective of spectral clustering (SC) without eigendecomposition---the unquestioned tool in 50 years of SC research [29].
 
-The first book on this topic is: [Isolation-Inspired Machine Learning: To Succeed when Deep Learning Fails](https://link.springer.com/book/9789819231508) 
+### The first book on this topic is: [Isolation-Inspired Machine Learning: To Succeed when Deep Learning Fails](https://link.springer.com/book/9789819231508) 
 
 ## References
 [1] Fei Tony Liu, Kai Ming Ting, Zhi-Hua Zhou (2008) Isolation Forest. Proceedings of IEEE ICDM, 413-422. [[pdf]](https://github.com/IsolationKernel/Codes/blob/main/PDF/Isolation%20Forest.pdf)
@@ -110,6 +118,24 @@ https://doi.org/10.1016/j.artint.2025.104440.
 
 [30] Yang Xu, Yixiao Ma, Kaifeng Zhang, Zuliang Yang, Kai Ming Ting,
 IDK-S: Incremental Distributional Kernel for Streaming Anomaly Detection. AAAI 2026: 16075-16082
+
+[31] Yang Xu, Hang Zhang, Yixiao Ma, Ye Zhu, Kai Ming Ting,
+SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection. AAAI 2026: 16083-16090
+
+[32] 	Zhibo Zhang, Yang Xu, Kai Ming Ting, Cam-Tu Nguyen,
+LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval. ACL (Findings) 2026: 13601-13623
+
+[33] 	Yang Xu, Zuliang Yang, Kai Ming Ting,
+GeoPTH: A Lightweight Approach to Category-Based Trajectory Retrieval via Geometric Prototype Trajectory Hashing. AAAI 2026: 27359-27367
+
+[34] 	Xinpeng Li, Kai Ming Ting,
+Distribution-Based Feature Attribution for Explaining the Predictions of Any Classifier. AAAI 2026: 23221-23229
+
+[35] Qiuran Zhao, Kai Ming Ting, Xinpeng Li,
+Case-Based Interpretability in Graph-Level Anomaly Detection via Contrast with Normal Prototypes. ICCBR 2026: 152-168
+
+[36] Xinpeng Li, Zile Jiang, Kai Ming Ting, Ye Zhu:
+Online Automatic Modulation Classification Based on Distributional Signal Representation. KSEM (1) 2026: 198-210
 
 <!--
 
