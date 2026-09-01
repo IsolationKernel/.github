@@ -137,7 +137,7 @@ Case-Based Interpretability in Graph-Level Anomaly Detection via Contrast with N
 Online Automatic Modulation Classification Based on Distributional Signal Representation. KSEM: 198-210
 
 [37] Yang Xu, Kai Ming Ting (2025).
-Voronoi Diagram Encoded Hashing. ECML/PKDD: 87-103. Extend journal version: Yang Xu, Kai Ming Ting, Xinpeng Li, and Yunpeng Li (2026). VDeH: Voronoi Diagram Encoded Hashing for Effective andEfficient Similarity Search, Applicable to Different Types of Databases. Journal of Artificial Intelligence Research 86, Article 43
+Voronoi Diagram Encoded Hashing. ECML/PKDD: 87-103. Extended journal version: Yang Xu, Kai Ming Ting, Xinpeng Li, and Yunpeng Li (2026). VDeH: Voronoi Diagram Encoded Hashing for Effective andEfficient Similarity Search, Applicable to Different Types of Databases. Journal of Artificial Intelligence Research 86, Article 43
 
 [38] Yufan Wang, Zijing Wang, Kai Ming Ting, Yuanyi Shang (2024).
 A Principled Distributional Approach to Trajectory Similarity Measurement and its Application to Anomaly Detection. Journal of Artificial Intelligence Research 79: 865-893
