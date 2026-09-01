@@ -13,7 +13,7 @@ In 2018, a data dependent kernel called Isolation Kernel [4] or IK is first intr
 * enabling large scale online kernel learning [7],
 * achieving effective and efficient embedding for retrieval of LLM embedded vector databases [32],
 * empowering efficient and effective consistent neighborhood in multi-view anomaly detection [31],
-* realizing binary hashing without learning for vector databases that are better than learning-to-hash [37], 
+* realizing binary hashing without learning for vector databases that are better than learning-to-hash, and its applications to trajectory and graph databases [37]. 
 * improving the efficacy & efficiency of t-SNE [15], and
 * inspiring a new data dependent kernel as the key in building a persistence diagram which is robust to noise and varied densities in Topological data analysis [20].
 
@@ -137,10 +137,11 @@ Case-Based Interpretability in Graph-Level Anomaly Detection via Contrast with N
 Online Automatic Modulation Classification Based on Distributional Signal Representation. KSEM: 198-210
 
 [37] Yang Xu, Kai Ming Ting (2025).
-Voronoi Diagram Encoded Hashing. ECML/PKDD: 87-103
+Voronoi Diagram Encoded Hashing. ECML/PKDD: 87-103. Extend journal version: Yang Xu, Kai Ming Ting, Xinpeng Li, and Yunpeng Li (2026). VDeH: Voronoi Diagram Encoded Hashing for Effective andEfficient Similarity Search, Applicable to Different Types of Databases. Journal of Artificial Intelligence Research 86, Article 43
 
 [38] Yufan Wang, Zijing Wang, Kai Ming Ting, Yuanyi Shang (2024).
-A Principled Distributional Approach to Trajectory Similarity Measurement and its Application to Anomaly Detection. J. Artif. Intell. Res. 79: 865-893
+A Principled Distributional Approach to Trajectory Similarity Measurement and its Application to Anomaly Detection. Journal of Artificial Intelligence Research 79: 865-893
+
 
 
 <!--
