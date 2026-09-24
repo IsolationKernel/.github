@@ -47,7 +47,7 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 * Streaming anomaly detection [[33]](#ref-33).
 * The first distribution-based feature attribution for explaining the predictions of any classifier [[37]](#ref-37).
 * Graph anomaly detection [[20]](#ref-20), and case-based interpretability in graph-level anomaly detection [[38]](#ref-38)
- 
+
 
 > [**Breaking news**] An IDK-based Clustering called Kernel-bounded clustering achieves the objective of spectral clustering (SC) without eigendecomposition---the unquestioned tool in 50 years of SC research [[32]](#ref-32).
 
@@ -57,7 +57,6 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 
 | Area | Project | Paper | Code |
 | --- | --- | --- | --- |
-|Topological Data Analysis|Lamda Kernel|[ICML2023](PDF/ICML_TowardsaPersistenceDiagramthatisRobusttoNoiseandVariedDensities.pdf) [[22]](#ref-22) |[code](https://github.com/IsolationKernel/Lambda-kernel.git)|
 |IK-based methods|IK-OGD|[DMKD2021](PDF/DMKD2021.pdf) [[12]](#ref-12)|[code](https://github.com/IsolationKernel/IK_OGD.git)|
 | |IK-TSNE|[JAIR2021](PDF/JAIR2021.pdf) [[15]](#ref-15)                           |[code](https://github.com/IsolationKernel/IK_TSNE.git)|
 | |IKDE|[ICDM2021](PDF/ICDM2021_IsolationKernelDensityEstimation.pdf) [[14]](#ref-14)                                                              |[code](https://github.com/IsolationKernel/IKDE.git)|
@@ -75,6 +74,7 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 |Trajectory|Trajectory Anomaly Detection |[JAIR2024](https://github.com/IsolationKernel/Codes/blob/main/PDF/JAIR2024.pdf) [[28]](#ref-28)|[code](https://github.com/IsolationKernel/TrajectoryDataMining.git)|
 | |TIDKC: Trajectory Clustering |[ICDM2023](https://github.com/IsolationKernel/Codes/blob/main/PDF/Distribution-Based_Trajectory_Clustering.pdf) [[23]](#ref-23)|[code](https://github.com/IsolationKernel/TIDKC.git)|
 |Time Series|Time Series Anomaly detection|[VLDB2022](PDF/VLDB2022.pdf) [[18]](#ref-18)                                                                              |[code](https://github.com/IsolationKernel/TS.git)|
+|Topological Data Analysis|Lamda Kernel|[ICML2023](PDF/ICML_TowardsaPersistenceDiagramthatisRobusttoNoiseandVariedDensities.pdf) [[22]](#ref-22) |[code](https://github.com/IsolationKernel/Lambda-kernel.git)|
 
 ## References
 <a id="ref-1"></a>[1] Bernhard Schölkopf, John C. Platt, John C. Shawe-Taylor, Alex J. Smola, Robert C. Williamson. (2001). Estimating the Support of a High-Dimensional Distribution. Neural Computing 13, 7, 1443–1471. [[pdf]](https://alex.smola.org/papers/2001/SchPlaShaSmoetal01.pdf)
