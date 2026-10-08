@@ -5,8 +5,8 @@
 **Contents**
 
 - [Introduction](#history)
-  - [Isolation Kernel (IK)](#isolation-kernel-ik)
-  - [Isolation Distributional Kernel (IDK)](#isolation-distributional-kernel-idk)
+- [Isolation Kernel (IK)](#isolation-kernel-ik)
+- [Isolation Distributional Kernel (IDK)](#isolation-distributional-kernel-idk)
 - [Projects and code](#projects-and-code)
 - [References](#references)
 
