@@ -4,11 +4,13 @@
 
 **Contents**
 
-- [A brief history of Isolation-based methods](#history)
+- [Introduction](#history)
   - [Isolation Kernel (IK)](#isolation-kernel-ik)
   - [Isolation Distributional Kernel (IDK)](#isolation-distributional-kernel-idk)
 - [Projects and code](#projects-and-code)
 - [References](#references)
+
+## Introduction
 
 Isolation-based methods refer to methods that employ an isolation mechanism to construct isolating partitions in the input space. The first method is called Isolation Forest or iForest [[3]](#ref-3), a point anomaly detector, reported in IEEE ICDM 2008. The intuition is that anomalies are rare and different from normal points; thus each anomaly is more amenable to isolation than normal points. A point is said to be isolated if it is contained within an isolating partition that isolates it from the rest of the points in a sample.
 
