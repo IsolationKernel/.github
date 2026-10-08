@@ -10,6 +10,10 @@
 - [Projects and code](#projects-and-code)
 - [References](#references)
 
+
+ > The first book on this topic is: [Isolation-Inspired Machine Learning: To Succeed when Deep Learning Fails](https://link.springer.com/book/9789819231508)
+
+
 ## Introduction
 
 Isolation-based methods refer to methods that employ an isolation mechanism to construct isolating partitions in the input space. The first method is called Isolation Forest or iForest [[3]](#ref-3), a point anomaly detector, reported in IEEE ICDM 2008. The intuition is that anomalies are rare and different from normal points; thus each anomaly is more amenable to isolation than normal points. A point is said to be isolated if it is contained within an isolating partition that isolates it from the rest of the points in a sample.
@@ -53,7 +57,6 @@ In 2020, Isolation Distributional Kernel or IDK is introduced to measure the sim
 
 > [**Breaking news**] An IDK-based Clustering called Kernel-bounded clustering achieves the objective of spectral clustering (SC) without eigendecomposition---the unquestioned tool in 50 years of SC research [[32]](#ref-32).
 
-> The first book on this topic is: [Isolation-Inspired Machine Learning: To Succeed when Deep Learning Fails](https://link.springer.com/book/9789819231508)
 
 ## Projects and code
 
